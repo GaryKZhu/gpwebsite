@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: /home/ 
+    url: /
   - title: "About"
     url: /about/
-  - title: "Posts"
-    url: /posts/
+  - title: "Forums"
+    url: /forums/
   - title: "Gallery"
     url: /gallery/
   - title: "External Links"
